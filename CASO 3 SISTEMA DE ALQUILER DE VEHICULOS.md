@@ -1,6 +1,6 @@
 # 🚗 Caso 3: Sistema de Alquiler de Vehículos
 
-> Análisis completo del sistema: requisitos, reglas de negocio, arquitectura, eventos, diccionario de dominio y modelo de datos.
+> Análisis completo del sistema: requisitos, reglas de negocio, arquitectura, eventos, diccionario del dominio y modelo de datos.
 
 ---
 
